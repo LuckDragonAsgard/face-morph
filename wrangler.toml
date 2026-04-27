@@ -1,0 +1,3 @@
+name = "face-morph"
+main = "index.js"
+compatibility_date = "2025-04-01"
